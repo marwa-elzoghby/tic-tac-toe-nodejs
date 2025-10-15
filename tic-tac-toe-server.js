@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
     }
 
     h1 {
-      color: #0077cc;
+      color: #f00f29ff;
       margin-bottom: 20px;
     }
 
